@@ -1,0 +1,20 @@
+{
+  "name": "rocketseat_aulas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Learning",
+    "NodeJS",
+    "JS",
+    "Back-end"
+  ],
+  "author": "Lucas Pereira",
+  "license": "gplv2",
+  "dependencies": {
+    "cfonts": "^2.9.3"
+  }
+}
